@@ -28,7 +28,7 @@ const DETAILED_CASES_CATALOG = [
     created: "12 Apr 2025, 14:32",
     dateCreated: "12 Apr 2025",
     lastUpdated: "14 Apr 2025, 16:47",
-    suspectWallet: "0x3a7f5c9e4d2b8f1a6c0e9d3f2a7b4c1e9d5e6f3a2",
+    suspectWallet: "0x3a7f5c9e4d2b8f1a6c0e9d3f2a7b4c1e9d5e6f3a",
     riskScore: 87,
     riskCategory: "High Risk",
     totalFundsTracedINR: "₹ 48,75,320",
